@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Znovice - 32 year old human just trying to learn how to be a computer
-- 👀 I’m interested in ...Cyber Security, IoT, Blockchain Technology and the persuit for more knowledge
-- 🌱 I’m currently learning ...Python/Javascript, how to use Github
+- 👋 Hi, I’m @Znovice - 35 year old human attempting to learn how to speak computer
+- 👀 I’m interested in ...Cyber Security, IoT, Blockchain Technology and the pursuit for more knowledge
+- 🌱 I’m currently learning ...Python, how to use Github and how to get started in InfoSec
 - 💞️ I’m looking to collaborate on ...nothing just yet...as I don't have much to offer. 
 - 📫 How to reach me ...you can reach my by sending me an email at jpere095@fiu.edu :) 
 
